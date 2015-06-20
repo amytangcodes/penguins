@@ -1,0 +1,38 @@
+
+body {
+	background: $turquoise;
+	font-family: $amatic;
+}
+
+// Let's center our game - this helps to organize our element
+
+#container {
+	width: 600px;
+	margin: 0 auto;
+}
+
+// Title and instructions for the game will go in here:
+#title {
+	width: 600px;
+	height: 150px;
+	background-image: url('../penguin_pngs/penguin_title.png');
+}
+
+
+footer {
+	clear: both;
+	padding-top: 100px;
+	// width: 80%;
+	// margin: 0 auto;
+	text-align: center;
+	font-size: 25px;
+	a {
+		text-decoration: none;
+		font-weight: 900;
+		color: $yellow;
+		&:hover {
+			color: $drkTurquoise;
+		}
+	}
+}
+
