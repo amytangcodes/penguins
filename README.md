@@ -8,4 +8,4 @@
 
 <p>Feel free to follow along here: <a href="https://googlecreativelab.github.io/coder-projects/projects/pop_up_penguins/">Coder</a></p>
 
-<p><img src="penguin_pngs/yeti.png" height="200" width="200" alt=""></p>
+<p><a href="http://amytangcodes.com/penguins"><img src="penguin_pngs/yeti.png" height="200" width="200" alt=""></a></p>
