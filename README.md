@@ -7,3 +7,5 @@
 <p>Hover over each snow mound to see what happens and then click on them to find all the penguins.  Don't disturb the yeti!</p>
 
 <p>Feel free to follow along here: <a href="https://googlecreativelab.github.io/coder-projects/projects/pop_up_penguins/">Coder</a></p>
+
+<p><img src="penguin_pngs/yeti.png" height="200" width="200" alt=""></p>
