@@ -1,5 +1,7 @@
 $(document).ready( function(){
-	$(".yeti").mousedown( function(){
+
+	$(".yeti").click( function(){
 		alert("Yaaaaaaaarrrrrr!");
 	});
+	
 });	
